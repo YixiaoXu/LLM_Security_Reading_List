@@ -14,3 +14,7 @@ Though using GA to solve discret prombem is less interesting compared with the p
 ## 4. CERTIFYING LLM SAFETY AGAINST ADVERSARIAL PROMPTING [link](https://arxiv.org/pdf/2309.02705.pdf)
 
 Adversatial prompt defense method by erasing tokens in the original prompt step-by-step and using LLama2 to check the safety of new prompt.
+
+## 5. The Reversal Curse: LLMs trained on “A is B” fail to learn “B is A” [link](https://arxiv.org/pdf/2309.12288.pdf)
+
+Some intriguing properties illustrate that LLMs fail to make basic logical inferences.
